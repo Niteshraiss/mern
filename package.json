@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Niteshraiss/mern/issues"
   },
-  "homepage": "https://github.com/Niteshraiss/mern#readme"
+  "homepage": "https://github.com/Niteshraiss/mern#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
